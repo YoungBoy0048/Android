@@ -1,3 +1,3 @@
 ## Android APK
 
-[Download TulingX APK New Version](http://66.42.44.179:9088/download/tulingx.apk) 
+[点击下载 Android 最新版本](http://66.42.44.179:9088/download/tulingx.apk) 
