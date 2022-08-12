@@ -1,5 +1,5 @@
 
-图灵VPN已经迁移到新链接
+图灵VPN Android 已经迁移到新链接
 
 [点击进入最新链接](https://github.com/YoungBoy0048/tulingx) 
 
